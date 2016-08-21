@@ -16,5 +16,3 @@ gitk
 
 #Cara Melihat Status File Yg Berubah
 git status
-
-#Kuda tambah test ayo kita bertengkar
