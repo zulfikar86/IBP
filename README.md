@@ -17,6 +17,4 @@ gitk
 #Cara Melihat Status File Yg Berubah
 git status
 
-
-#TAMBAH FITUR Kuda
-
+#Kuda tambah test ayo kita bertengkar
