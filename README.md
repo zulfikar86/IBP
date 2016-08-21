@@ -17,4 +17,4 @@ gitk
 #Cara Melihat Status File Yg Berubah
 git status
 
-tambah test
+#TAMBAH FITUR
